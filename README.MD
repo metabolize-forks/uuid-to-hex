@@ -1,6 +1,9 @@
-# Convert UUID string to hex string
+# uuid-to-hex
 
-[![Build Status](https://travis-ci.org/DeRain/uuid-to-hex.svg?branch=master)](https://travis-ci.org/DeRain/uuid-to-hex)
+Convert UUID string to hex string.
+
+Active fork of [uuid-to-hex](https://npmjs.com/package/uuid-to-hex),
+which depends on a vulnerable version of `validator`.
 
 ## Examples of using
 
