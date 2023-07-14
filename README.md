@@ -1,4 +1,4 @@
-# uuid-to-hex
+# @metabolize/uuid-to-hex
 
 Convert UUID string to hex string.
 
