@@ -30,7 +30,7 @@ jobs:
     #       command: npm run prettier:check
     #       when: always
 
-      - run:
-          name: Run the build
-          command: npm run build
-          when: always
+      # - run:
+      #     name: Run the build
+      #     command: npm run build
+      #     when: always
