@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const index = require('../index');
+const index = require('.');
 
 describe('uuid-to-hex package', function () {
     it('Should provide the correct HEX string without leading zero by default', function () {
